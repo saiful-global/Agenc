@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+.container{
+    @apply max-w-330 mx-auto px-2.5 md:px-0;
+}
+
+@theme {
+  --font-inter: "Inter", sans-serif; 
+  /* --breakpoint-xs: 320px; */
+}
+
+.menu ul li a{
+    @apply font-inter text-[18px] text-white leading-6.5 font-normal duration-300
+}
+
+.menu ul li a:hover{
+    @apply text-[#4756DF] font-bold 
+}
+@theme{
+    --shadow-custom: 0 2px 10px rgba(0, 0, 0, 0.25);
+}
+
+.slick-dots {
+    bottom: 5%!important;
+    display: flex!important;
+    justify-content: center;
+}
+
+.slick-dots li {
+    width: 24px!important;
+    height: 24px!important;
+    background-color: #4756DF!important ;
+    border-radius: 50%!important;
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+    margin: 0 2px!important;
+}
+
+.slick-dots li button{
+    width: 16px! important;
+    height: 16px! important;
+    border-radius: 50%;
+}
+
+.slick-dots li button:before {
+    display: none;
+}
+
+.slick-dots li.slick-active{
+    background-color: white!important;
+}
+.slick-dots li.slick-active button{
+    background-color: #4756DF!important;
+}
+
+
+/* Review component . default slide */
+.slick-slide > div {
+  transition: all 0.3s ease;
+}
+
+/* Review component . active center slide */
+.slick-center > div {
+  background: #F4EFEF;
+  border-radius: 30px;
+}
+
+
+
