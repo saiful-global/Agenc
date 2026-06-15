@@ -1,5 +1,5 @@
 import React from 'react'
-import Headline from '../Common/Headline'
+import Headline from '../common/Headline'
 import why from '../../assets/images/why.jpg'
 import why1 from '../../assets/images/why1.png'
 import why2 from '../../assets/images/why2.png'

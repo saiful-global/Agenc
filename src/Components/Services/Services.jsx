@@ -5,7 +5,7 @@ import s3 from '../../assets/images/s3.png'
 import s4 from '../../assets/images/s4.png'
 import s5 from '../../assets/images/s5.png'
 import s6 from '../../assets/images/s6.png'
-import Headline from '../Common/Headline'
+import Headline from '../common/Headline'
 
 const Services = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import Headline from '../Common/Headline'
+import Headline from '../common/Headline'
 import w1 from '../../assets/images/w1.jpg'
 import w2 from '../../assets/images/w2.png'
 import w3 from '../../assets/images/w3.png'

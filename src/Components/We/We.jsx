@@ -1,6 +1,6 @@
 import React from 'react'
-import Headline from '../Common/Headline'
-import Btn from '../Common/Btn'
+import Headline from '../common/Headline'
+import Btn from '../common/Btn'
 
 const We = () => {
   return (

@@ -3,7 +3,7 @@ import banner from '../../assets/images/banner.jpg'
 import banner2 from '../../assets/images/banner2.jpg'
 import banner3 from '../../assets/images/banner3.jpg'
 import banner4 from '../../assets/images/banner4.jpg'
-import Btn from '../Common/Btn'
+import Btn from '../common/Btn'
 import "slick-carousel/slick/slick.css";
 // import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";

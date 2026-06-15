@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import logo from '../../assets/images/logo.png'
-import Btn from '../Common/Btn'
+import Btn from '../common/Btn'
 import { FaBarsStaggered } from "react-icons/fa6";
 import { GrClose } from "react-icons/gr";
 
