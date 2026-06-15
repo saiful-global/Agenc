@@ -1,13 +1,13 @@
 import React from 'react'
-import Navbar from './Components/navbar/Navbar'
-import Banner from './Components/banner/Banner'
-import SuccessRate from './Components/successRate/SuccessRate'
-import Services from './Components/services/Services'
-import Work from './Components/work/Work'
-import Whychoose from './Components/why/Whychoose'
-import Reviews from './Components/reviews/Reviews'
-import We from './Components/we/We'
-import Footer from './Components/footer/Footer'
+import Navbar from './components/navbar/Navbar'
+import Banner from './components/banner/Banner'
+import SuccessRate from './components/successRate/SuccessRate'
+import Services from './components/services/Services'
+import Work from './components/work/Work'
+import Whychoose from './components/why/Whychoose'
+import Reviews from './components/reviews/Reviews'
+import We from './components/we/We'
+import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
