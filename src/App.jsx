@@ -8,6 +8,7 @@ import Whychoose from './components/why/Whychoose'
 import Reviews from './components/reviews/Reviews'
 import We from './components/we/We'
 import Footer from './components/footer/Footer'
+import ScrollToTop from './components/common/ScrollToTop'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
     <Reviews></Reviews>
     <We></We>
     <Footer></Footer>
+    <ScrollToTop></ScrollToTop>
     </>
   )
 }
