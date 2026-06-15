@@ -31,7 +31,7 @@ const Banner = () => {
                             <div className="text-center">
                                 <h1 className='font-inter font-bold text-3xl lg:text-[75px] text-white leading-[120%] pb-12.75'>We Help brands with high quality services</h1>
                                 <p className='max-w-155.25 mx-auto font-inter text-normal text-[16px] text-white leading-6.5 pb-13.75'>There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.</p>
-                                <Btn text="Get Started" className='bg-[#6A4DF4]'></Btn>
+                                <Btn text="Get Started" className='bg-[#6A4DF4] z-50'></Btn>
                             </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ const Banner = () => {
                             <div className="text-center">
                                 <h1 className='font-inter font-bold text-3xl lg:text-[75px] text-white leading-[120%] pb-12.75'>We Help brands with high quality services</h1>
                                 <p className='max-w-155.25 mx-auto font-inter text-normal text-[16px] text-white leading-6.5 pb-13.75'>There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.</p>
-                                <Btn text="Get Started" className='bg-[#6A4DF4]'></Btn>
+                                <Btn text="Get Started" className='bg-[#6A4DF4] z-50'></Btn>
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@ const Banner = () => {
                             <div className="text-center">
                                 <h1 className='font-inter font-bold text-3xl lg:text-[75px] text-white leading-[120%] pb-12.75'>We Help brands with high quality services</h1>
                                 <p className='max-w-155.25 mx-auto font-inter text-normal text-[16px] text-white leading-6.5 pb-13.75'>There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.</p>
-                                <Btn text="Get Started" className='bg-[#6A4DF4]'></Btn>
+                                <Btn text="Get Started" className='bg-[#6A4DF4] z-50'></Btn>
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ const Banner = () => {
                             <div className="text-center">
                                 <h1 className='font-inter font-bold text-3xl lg:text-[75px] text-white leading-[120%] pb-12.75'>We Help brands with high quality services</h1>
                                 <p className='max-w-155.25 mx-auto font-inter text-normal text-[16px] text-white leading-6.5 pb-13.75'>There are many variations of passages of Lorem Ipsum available, but themajority  have suffered alteration in some form, by injected humour, or randomised words which don't look.</p>
-                                <Btn text="Get Started" className='bg-[#6A4DF4]'></Btn>
+                                <Btn text="Get Started" className='bg-[#6A4DF4] z-50'></Btn>
                             </div>
                         </div>
                     </div>
