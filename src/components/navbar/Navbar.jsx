@@ -45,7 +45,7 @@ const Navbar = () => {
 
           {/* mobile menu */}
           <div className={`menu absolute ${mobileMenu ? "left-0" : "-left-full"} duration-500 py-3 top-[140%] w-full md:hidden bg-linear-to-r from-[#6A4DF4] to-black`}>
-            <ul className='flex flex-col text-center text-white justify-center gap-5 bg-linear-to-r from-black to-[#6A4DF4]'>
+            <ul className='flex flex-col text-center text-white justify-center gap-5 bg-linear-to-r from-black to-[#6A4DF4] py-10 '>
               <li><a href="">Home</a></li>
               <li><a href="">About</a></li>
               <li><a href="">Service</a></li>
