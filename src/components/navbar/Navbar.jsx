@@ -44,13 +44,13 @@ const Navbar = () => {
           </div>
 
           {/* mobile menu */}
-          <div className={`menu absolute ${mobileMenu ? "left-0" : "-left-full"} duration-500 py-3 top-[140%] w-full md:hidden bg-linear-to-r from-[#6A4DF4] to-black`}>
-            <ul className='flex flex-col text-center text-white justify-center gap-5 bg-linear-to-r from-black to-[#6A4DF4] py-10 '>
-              <li><a href="">Home</a></li>
-              <li><a href="">About</a></li>
-              <li><a href="">Service</a></li>
-              <li><a href="">Carreer</a></li>
-              <li><a href="">Contact</a></li>
+          <div className={`menu absolute ${mobileMenu ? "left-0" : "-left-full"} duration-500 py-3 top-[140%] w-full md:hidden backdrop-blur-xl`}>
+            <ul className='flex flex-col text-center text-white gap-8 py-10 '>
+              <li><a href="" className='bg-black rounded-t-full px-20 py-3'>Home</a></li>
+              <li><a href="" className='bg-black rounded-lg px-21 py-3'>About</a></li>
+              <li><a href="" className='bg-black rounded-lg px-20 py-3'>Service</a></li>
+              <li><a href="" className='bg-black rounded-lg px-20 py-3'>Carreer</a></li>
+              <li><a href="" className='bg-black rounded-b-full px-20 py-3'>Contact</a></li>
             </ul>
           </div>
           {/* mobile menu */}
